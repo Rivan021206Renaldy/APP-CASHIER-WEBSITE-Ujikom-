@@ -1,0 +1,35 @@
+/* Custom CSS overrides for dashboard/Beranda */
+
+body.bg-light {
+  background-color: #f8f9fa !important;
+}
+
+.navbar-dark.bg-primary {
+  background-color: #007bff !important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #fff !important;
+  font-weight: 600;
+  transition: color 0.3s ease;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover,
+.navbar-dark .navbar-nav .nav-link.active {
+  color: #cce5ff !important;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+.container.mt-4 h1 {
+  color: #007bff;
+  font-weight: 700;
+}
+
+.container.mt-4 p {
+  font-size: 1.1rem;
+  color: #555;
+}
