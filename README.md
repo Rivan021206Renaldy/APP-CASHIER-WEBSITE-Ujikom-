@@ -1,4 +1,4 @@
-# APP-CASHIER-WEBSITE-Ujikom-
+# APP-CASHIER-WEBSITE
 
 ## Aplikasi Kasir Ujikom
 Aplikasi kasir sederhana berbasis PHP dan MySQL, dibuat untuk memenuhi ujian kompetensi SMK. 
